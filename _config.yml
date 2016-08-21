@@ -24,6 +24,7 @@ cta:
   domain: null
   bucket: null
   version: null
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/23b53380-770e-4023-b097-73925c06639c.png
 title: photos.
 purpose: []
