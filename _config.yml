@@ -1,4 +1,3 @@
-layout_spectrum: 0.6297002031933516
 typography_spectrum: 0.5473568569868803
 color:
   brandColors:
@@ -15,6 +14,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.6297002031933516
 analytics:
   google: null
   facebook: null
@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Ignasiak/Zander Wedding
+    id: 353c5507-d8a4-42a0-aca3-10c76210953c
+    type: content
 favicon: null
 title: photos.
 purpose: []
