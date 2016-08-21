@@ -24,10 +24,6 @@ cta:
   domain: null
   bucket: null
   version: null
-navigation:
-  - name: Ignasiak/Zander Wedding
-    id: 353c5507-d8a4-42a0-aca3-10c76210953c
-    type: content
 favicon: null
 title: photos.
 purpose: []
